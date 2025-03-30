@@ -5,7 +5,6 @@ import java.net.InetAddress;
 import java.net.SocketException;
 
 public class Servidor {
-
     public static void main(String[] args) throws SocketException {
 
         final int PORT = 5000;
